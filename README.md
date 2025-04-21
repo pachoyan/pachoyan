@@ -1,5 +1,11 @@
 ## :raised_hand: Pau Chorro - Data/Software Engineer
 
+Checkout my [blog](https://pachoyan.github.io/), 
+
+No content? I am working on it.
+
+---
+
 :pencil: View my [CV online](https://pachoyan.github.io/cv/), or download it [here](https://github.com/pachoyan/cv/releases/download/0.0.1/pau_chorro_cv.pdf).
 
 :raising_hand: Also check my Linkedin if you prefer [here](https://www.linkedin.com/in/pachoyan/).
